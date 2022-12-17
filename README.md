@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Mini App and Web Projects 
-- 🌱 I’m currently learning Data Structure and Algorithms 
-- 💬 Ask me about LifeSkills,Development,Trading.
+- 🌱 I’m currently learning Data Structure and Algorithms
+-     Languages - C++,Python,Java,JavaScript,C.
+- 💬 Ask me about Btech life,LifeSkills,Coding.
 - 📫 How to reach me: Contact me at eshwarrachakonda02@gmail.com
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: You have read all the lines above.
