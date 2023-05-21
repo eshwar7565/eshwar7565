@@ -14,4 +14,5 @@
 [![`Eshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshwar7565)](https://github.com/eshwar7565/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshwar7565)](https://github.com/eshwar7565/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshwar7565&hide_progress=true)](https://github.com/eshwar75656/github-readme-stats)
