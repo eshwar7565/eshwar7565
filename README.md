@@ -13,4 +13,4 @@
 
 [![`Eshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshwar7565)](https://github.com/eshwar7565/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eshwar7565&repo=github-readme-stats)](https://github.com/eshwar7565/github-readme-stats)
+
