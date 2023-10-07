@@ -21,7 +21,7 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eshwar7565&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 
 
