@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working in Machine Learning and Web Development Areas.  
 - 🌱 Sound Knowledge in Data Structures and Algorithms
--   👋  Languages - C++,Python,JavaScript.
+-   👋  Languages - C++,Python.
 - 💬 Ask me about Btech life.
 - 📫 How to reach me: Contact me at eshwarrachakonda02@gmail.com
 - 😄 Pronouns: He/him.
