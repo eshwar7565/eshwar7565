@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in Machine Learning and Web Development Areas.  
+- 🔭 I’m currently learning Machine Learning.
+- 💬Frequently involved in Competitive Programming contests.
 - 🌱 Sound Knowledge in Data Structures and Algorithms
--   👋  Languages - C++,Python.
-- 💬 Ask me about Btech life.
+- 👋  Languages - C++,Python.
 - 📫 How to reach me: Contact me at eshwarrachakonda02@gmail.com
 - 😄 Pronouns: He/him.
-- ⚡ Fun fact: You have read all the lines above.
-
-
 
 
 
