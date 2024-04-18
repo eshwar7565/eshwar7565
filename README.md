@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Machine Learning.
+- 🔭 I’m currently working on Machine Learning projects.
 - 💬Frequently involved in Competitive Programming contests.
 - 🌱 Sound Knowledge in Data Structures and Algorithms
 - 👋  Languages - C++,Python.
