@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Machine Learning projects.
 - 💬Frequently involved in Competitive Programming contests.
-- 🌱 Sound Knowledge in Data Structures and Algorithms
+- 🌱 Sound Knowledge in Data Structures and Algorithms.
 - 👋  Languages - C,C++,Python.
 - 📫 How to reach me: Contact me at eshwarrachakonda02@gmail.com
 - 😄 Pronouns: He/him.
